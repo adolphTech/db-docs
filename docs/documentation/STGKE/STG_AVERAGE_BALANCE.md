@@ -13,7 +13,7 @@ sidebar_position: 3
 - **Type:** varchar(255) 
 
 ### daily_fcy_bal
-- **Description:** 
+- **Description:**  
 - **Example:** 
 - **Type:** 
 

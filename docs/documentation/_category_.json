@@ -1,6 +1,6 @@
 {
-  "label": "STGKE",
-  "position": 4,
+  "label": "Documentation",
+  "position": 1,
   "link": {
     "type": "generated-index"
   }
