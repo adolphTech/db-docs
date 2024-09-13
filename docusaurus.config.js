@@ -93,7 +93,7 @@ const config = {
     },
     algolia: {
       apiKey: '7f1b6f68058dc748f20bf856cc777fad',
-      indexName: '24',
+      indexName: 'DBCA DOC',
       appId: 'KWHP7AUTM2', // Optional, if you have it
       contextualSearch: true, // Enables contextual search
       searchParameters: {}, // Optional: Any search parameters you want to define
