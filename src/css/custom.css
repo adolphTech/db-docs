@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Existing CSS rules... */
+
+/* New rule to highlight empty descriptions in red */
+/* Style for sections with empty descriptions */
+.red-text {
+  color: red; /* Color for the section */
+}
+/* Style for Table of Contents */
+.navbar__items .red-text {
+  color: red; /* Color for ToC items */
+}

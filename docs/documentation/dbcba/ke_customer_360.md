@@ -18,7 +18,7 @@ sidebar_position: 4
 - **Type:** 
 
 ### product
-- **Description:** 
+- **Description:** The date on which the data was extracted
 - **Example:** 
 - **Type:** 
 
