@@ -4,7 +4,7 @@ sidebar_position: 5
 
 ### CUSTOMER
 - **Description:** Represents the customer number.
-- **Example:** `CUST67890`
+- **Example:** `67890`
 - **Type:** String
 
 ### DEBIT_TXNS_PRCNT
